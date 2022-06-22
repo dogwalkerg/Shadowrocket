@@ -4,6 +4,10 @@
 https://github.com/shadowrocketcom/Shadowrocket/wiki
 
 我们的家，请收藏备份，网址不定期更新
+https://xiaohuojian.vercel.app
+
+https://spjiaocheng.vercel.app
+https://gitbook-black.vercel.app
 
 http://www.shadowrocket.club 被墙 需要科学上网打开
 
